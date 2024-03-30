@@ -1,0 +1,17 @@
+{
+    "name": "jonathanb/backend",
+    "autoload": {
+        "psr-4": {
+            "Jonathanb\\Backend\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jonathan Blazquez"
+        }
+    ],
+    "require": {
+        "bramus/router": "~1.6",
+        "gabordemooij/redbean": "dev-master"
+    }
+}
